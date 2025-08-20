@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the accompanying Frontiers article."
+title: "A Support Vector Machine based approach for plagiarism detection in Python code submissions in undergraduate settings"
+authors:
+  - family-names: Gandhi
+    given-names: Nandini
+  - family-names: Gopalan
+    given-names: Kaushik
+  - family-names: Prasad
+    given-names: Prajish
+date-released: 2024-06-13
+doi: 10.3389/fcomp.2024.1393723
+url: "https://www.frontiersin.org/journals/computer-science/articles/10.3389/fcomp.2024.1393723/full"

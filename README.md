@@ -4,7 +4,7 @@ Research implementation accompanying the article:
 
 **Gandhi N., Gopalan K., Prasad P. (2024).** *A Support Vector Machine based approach for plagiarism detection in Python code submissions in undergraduate settings.* Frontiers in Computer Science. https://doi.org/10.3389/fcomp.2024.1393723
 
-This repository includes the research code (`main_model21.py`), the paper PDF, and figures from the article for quick reference. No datasets or MOSS/JPlag outputs are included.
+This repository includes the research code (`code.py`), the paper PDF, and figures from the article for quick reference. No datasets or MOSS/JPlag outputs are included.
 
 ---
 

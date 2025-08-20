@@ -37,11 +37,6 @@ The full article is provided here for convenience:
 
 ---
 
-## Notes
-- This repo makes **no claims** beyond the published article.
-- MOSS/JPlag inputs and student data are **omitted**.
-- Figures and the PDF are reused under **CC BY 4.0** with attribution; third-party materials (if any) would require their own permissions.
-
 ## Citation
 See `CITATION.cff` or cite the Frontiers article directly.
 
